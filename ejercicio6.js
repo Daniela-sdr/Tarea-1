@@ -1,7 +1,7 @@
 //SILVIA DANIEA RUIZ (Daniela)
 //DNI 20467216
 
-//Clasificación de edad
+//Numero Mayor entre 2 números
 
 import promptSync from "prompt-sync"
 
